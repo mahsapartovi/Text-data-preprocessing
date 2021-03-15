@@ -1,6 +1,6 @@
 # Text-data-preprocessing
 
-Data minning 
+Data minning project
 
 In this project, I wrote a program in which it takes 3 books as input, 
 1. tokenizing the texts
